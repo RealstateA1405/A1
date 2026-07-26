@@ -1,0 +1,1 @@
+gh repo fork REPOSITORY --remote-name "main-remote-repo"
